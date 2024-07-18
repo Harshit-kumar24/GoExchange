@@ -1,2 +1,2 @@
-# GoExchange
-Created a crypto exchange usign golang
+# GoExchange (Under Progress)
+Creating a crypto exchange using golang
